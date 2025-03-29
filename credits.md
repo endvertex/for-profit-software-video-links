@@ -2,7 +2,7 @@
 
 ## Voices
 
-['B. Russell' - Million](https://gamejolt.com/@MillionInteractive)
+* ['B. Russell' - Million](https://gamejolt.com/@MillionInteractive)
 * ['CEO', Narrator - EndVertex](https://github.com/endvertex)
 
 ## SFX/Music
