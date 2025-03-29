@@ -3,7 +3,7 @@
 ## Voices
 
 ['B. Russell' - Million](https://gamejolt.com/@MillionInteractive)
-['CEO', Narrator - EndVertex](https://github.com/endvertex)
+* ['CEO', Narrator - EndVertex](https://github.com/endvertex)
 
 ## SFX/Music
 
@@ -18,7 +18,7 @@
 
 ### Opening - Living Room
 
-* [Ghosthack: Various Packs](ghosthack.de)
+* [Ghosthack: Various Packs](https://ghosthack.de)
 * [Visions of Hope (Loop 01) - Bjorn Lynne, Lynne Publishing (PRS). Library: Lynne Music](https://lynnepublishing.com/)
 * [Cartoon, Autoharp, Play, Scrape, Strings, Musical Library: Sonopedia - Ric Viers](https://blastwavefx.com/)
 * [Cartoon | Musical - Instruments || String Plucks, Descend, Fast, Musical Instrument Library: Blastdrive - Ric Viers](https://blastwavefx.com/)
@@ -28,36 +28,31 @@
 
 ### Classroom Scene
 
-* [Ghosthack: Various Packs](ghosthack.de)
+* [Ghosthack: Various Packs](https://ghosthack.de)
 * [Unleashing Storm (60-secs version) - Chun Han Chi, Lynne Publishing (PRS). Library: Lynne Music](https://lynnepublishing.com/)
 
 ### Mouse House Second Scene
 
-* [Ghosthack: Various Packs](ghosthack.de)
+* [Ghosthack: Various Packs](https://ghosthack.de)
 
 ### Mouse House Third Scene
 
-[Ghosthack: Various Packs](ghosthack.de)
-
-* [John Leonard French](https://johnleonardfrench.music)
-* [Ultimate Game Music Collection](https://store.johnleonardfrench.music/)
+* [Ghosthack: Various Packs](https://ghosthack.de)
+* [John Leonard French](https://johnleonardfrench.music) - [Ultimate Game Music Collection](https://store.johnleonardfrench.music/)
 
 ### Cat/CEO Hall and Kitchen Scenes
 
-* [Blood Lab (30-secs version)Lynne, Bjorn; Lynne Publishing (PRS) Library: Lynne Music](https://lynnepublishing.com/)
-* [Ghosthack: Various Packs](ghosthack.de)
-
-* [Musical Cartoon Strings Swell Suspense 01 Library: Sound Effects **Bible**](SoundDogs.com)
+* [Blood Lab (30-secs version) Lynne, Bjorn; Lynne Publishing (PRS) Library: Lynne Music](https://lynnepublishing.com/)
+* [Ghosthack: Various Packs](https://ghosthack.de)
+* [Musical Cartoon Strings Swell Suspense 01 Library: Sound Effects **Bible** via SoundDogs.com](https://sounddogs.com)
 
 ### Conclusion music
 
-* [Ghosthack: Various Packs](ghosthack.de)
+* [Ghosthack: Various Packs](https://ghosthack.de)
 
 ### Credits
 
-* [John Leonard French](https://johnleonardfrench.music)
-* [Ultimate Game Music Collection](https://store.johnleonardfrench.music/)
-* Loneliness Minimal LOOP and Loneliness Minimal
+* [John Leonard French](https://johnleonardfrench.music) - Loneliness Minimal LOOP and Loneliness Minimal from [Ultimate Game Music Collection](https://store.johnleonardfrench.music/) 
 
 ## Sources
 
@@ -97,7 +92,7 @@
 
 ### Flash
 
-* [FuturerSplash Animator via Web Design Museum](https://www.webdesignmuseum.org/software/futuresplash-animator-in-1996)
+* [FutureSplash Animator via Web Design Museum](https://www.webdesignmuseum.org/software/futuresplash-animator-in-1996)
 * [David Firth on YT](https://www.youtube.com/@davidfirth)
 * [Homestarrunner](https://homestarrunner.com/)
 * [FilmCow on YT](https://www.youtube.com/@filmcow)
@@ -106,7 +101,7 @@
 * [Futurewave.com via Archive.org](https://web.archive.org/web/19961105022401/http://www.futurewave.com/)
 * [Chaos via Archive.org](https://web.archive.org/web/19961105023245/http://www.primenet.com/~gamaguy/chaos_fs.htm)
 * [TroutDream via Archive.org](https://web.archive.org/web/19990915232417/http://www.troutdream.com/flash/)
-* ['The Hole in the Wall' by Alan Watkins via Archive.org](https://web.archive.org/web/19970208081817/http://www.wattyco.com/spl.htm)
+* ['The Hole in the Wall' by Adam Watkins via Archive.org](https://web.archive.org/web/19970208081817/http://www.wattyco.com/spl.htm)
 * [Jumping Bean by BitBetter Co via Archive.org](https://web.archive.org/web/19970214162723/http://www.bitbetter.com/jumping.htm)
 * ['The History of Flash' by Jonathan Gay on Adobe.com, via Archive.org](https://web.archive.org/web/20060719084910/http://www.adobe.com/macromedia/events/john_gay/)
 * ['Macromedia Flash' Wikipedia](https://en.wikipedia.org/wiki/Adobe_Flash)
@@ -180,18 +175,17 @@
 * ['Models of Light Reflection for Computer Synthesized Pictures' by James F. Blinn](https://people.computing.clemson.edu/~ekp/courses/dpa8090/assets/papers/Blinn1977Shading.pdf)
 * [Pixologic.com via Archive.org](https://web.archive.org/web/19991013041818/http://pixologic.com/)
 * [Design Graphics Magazine #57 from Pixologic.com via Archive.org](https://web.archive.org/web/20010706160037fw_/http://pixologic.com/news/DG_Pixologic_zBrush.pdf)
-* Artemis with Greyhound (default zbrush model)
-* [Joseph Drust](https://www.artstation.com/artwork/bKbExd)
+* [Artemis with Greyhound (default zbrush model) - Joseph Drust](https://www.artstation.com/artwork/bKbExd)
 * ['The Pixol'](https://help.maxon.net/zbr/en-us/Content/html/getting-started/basic-concepts/the-pixol/the-pixol.html)
 * ['ELI5: Why exactly is Zbrush's 2.5D approach faster than the 3D approach of other softwares?' by CDWEBI](https://www.reddit.com/r/ZBrush/comments/bzf77w/eli5_why_exactly_is_zbrushs_25d_approach_faster/?rdt=36794)
-* ['Lightbulb About the Nature of Pixols' Zbrushcentral.com via Archive.org](archive.org/web/20110718151828/zbrushcentral.com/showthread.php?t=006758)
+* ['Lightbulb About the Nature of Pixols' Zbrushcentral.com via Archive.org](https://archive.org/web/20110718151828/zbrushcentral.com/showthread.php?t=006758)
 * [Polycount.net Forums via Archive.org](https://web.archive.org/web/20090227113918/boards.polycount.net)
 * [ZBrushCentral.com Forums via Archive.org](https://web.archive.org/web/20120920085023/http://www.zbrushcentral.com/forum.php?s=b71bd5d829b7bdb17c0bb5d374f65ad6)
 * ['Maxon aquires Pixologic and the world cries out in terror.' by bombjon](https://www.reddit.com/r/ZBrush/comments/rgbqra/maxon_aquires_pixologic_and_the_world_cries_out/)
 * [ZBrush Pricing Plans on Maxon.com](https://www.maxon.net/en/buy#monthly)
 * [Blender Sculpt](https://blender.org)
-* ["20 Hours of Sculpting in Under 20 Minutes - Modeling Mel (Arcane) from Netflix" via YanSculpts on Youtube](youtube.com/watch?v=k363TioAk3M)
-* ["Sculpt Appealing Characters in Blender Time Lapse" via Danny Mac 3D on Youtube](youtube.com/watch?v=SNHBFtdGWhg)
+* ["20 Hours of Sculpting in Under 20 Minutes - Modeling Mel (Arcane) from Netflix" via YanSculpts on Youtube](https://youtube.com/watch?v=k363TioAk3M)
+* ["Sculpt Appealing Characters in Blender Time Lapse" via Danny Mac 3D on Youtube](https://youtube.com/watch?v=SNHBFtdGWhg)
 * [Nomad Sculpt](https://nomadsculpt.com/)
 * [Mudbox - Subscription per month](https://www.autodesk.com/products/mudbox/overview?term=1-MONTH&tab=subscription)
 * [Mudbox - Subscription per year](https://www.autodesk.com/products/mudbox/overview?term=1-YEAR&tab=subscription)
@@ -201,7 +195,7 @@
 * ['Meet Substance Painter'](https://gdcvault.com/play/1020743/Particle-Based-Brushes-Material-Layers)
 * ['Quixel SUITE 2.0 Painting Primer' via Quixel on Youtube](https://www.youtube.com/watch?v=dw4IJuu0XSg&ab_channel=Quixel)
 * ['Quixel joins forces with Epic Games'](https://quixel.com/blog/2019/11/12/quixel-joins-forces-with-epic-games)
-* [Pauline Boiteux](artstation.com/jappluz)
+* [Pauline Boiteux](https://artstation.com/jappluz)
 * [Allegorithmic.com via Archive.org](https://web.archive.org/web/20170606213140/allegorithmic.com/buy/indie)
 * ['Adobe acquires Allegorithmic, makers of the Substance' texture tools by Frederic Lardinois](https://techcrunch.com/2019/01/23/adobe-acquires-allegorithmic-makers-of-the-substance-texture-tools)
 * [Steam Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/)
@@ -210,10 +204,7 @@
 * ['These are the classic video games you can no longer play (Spoiler: It's most of them)' by Vincent Acovino](https://www.wglt.org/2023-07-21/these-are-the-classic-video-games-you-can-no-longer-play-spoiler-its-most-of-them)
 * ['HBO Max Appears To Be Inexplicably Purging Streaming-Exclusive Movies From The Service' by JEREMY MATHAI](https://www.slashfilm.com/950981/hbo-max-appears-to-be-inexplicably-purging-streaming-exclusive-movies-from-the-service/)
 * ['In The Age Of Streaming, TV Preservation Matters More Than Ever' by VALERIE ETTENHOFER](https://www.slashfilm.com/1187497/in-the-age-of-streaming-tv-preservation-matters-more-than-ever/)
-
-### *Microsoft Says Goodbye to Clip Art*
-
-* [DAVID GREENE, December 2, 2014](https://www.npr.org/transcripts/368060012)
+* [Microsoft Says Goodbye to Clip Art - DAVID GREENE, December 2, 2014](https://www.npr.org/transcripts/368060012)
 * [Microsoft Financial Data 1992-1996](https://www.microsoft.com/investor/reports/ar96/fh.htm)
 
 ### Modern Software Development Sucks for Everyone
@@ -297,9 +288,9 @@
 * [Suzanne](https://en.wikipedia.org/wiki/Blender_(software)#Suzanne)
 * [Cornell Box (model recreated in Blender)](https://en.wikipedia.org/wiki/Cornell_box)
 * [Sutherland's Beetle](https://en.wikipedia.org/wiki/Sutherland%27s_Volkswagen)
-* Combo of 2 models, retextured
-  * [enrique-martineze](https://www.cgtrader.com/3d-models/car/antique-car/vw-t1-beetle-sedan-1963)
-  * [tafli](https://3dsky.org/3dmodels/show/volkswagen_beetle_1300_3)
+   * Combo of 2 models, retextured
+     * [enrique-martineze](https://www.cgtrader.com/3d-models/car/antique-car/vw-t1-beetle-sedan-1963)
+     * [tafli](https://3dsky.org/3dmodels/show/volkswagen_beetle_1300_3)
 
 ## Models Shown/Used/Purchased by Category/Scene
 
@@ -319,7 +310,7 @@
 
 * [Orange Chair](https://www.3dshaker.com/)
 
-### Opening - Living Roo
+### Opening - Living Room
 
 * Shelf + Various Decor + Books + Lights (some retextured, some models altered) 3d Shaker
   * https://blendermarket.com/products/classic-books-set-on-bookshelf-60-books
@@ -332,7 +323,7 @@
 * [Books - slavku](https://3dsky.org/3dmodels/show/editable_random_books_classic)
 * [School Set / Decor - many_jjj](https://3dsky.org/3dmodels/show/school_set_1)
 
-### Classroo
+### Classroom
 
 * [American Football - Riley Queen](https://polyhaven.com/a/american_football)
 * [Baseball - Rico Cilliers](https://polyhaven.com/a/baseball_01)
@@ -382,18 +373,24 @@
   * [tafli](https://3dsky.org/3dmodels/show/volkswagen_beetle_1300_3)
 * [Road + Sidewalk (retextured, models altered) - 3d Shaker](https://blendermarket.com/products/road-parts---sections-of-road-with-crossroads-lights-and-road-signs)
 * [Street Lamp - Josh Dean](https://polyhaven.com/a/street_lamp_01)
-* Smoke/Explosion/Fire VDB:
-  * [Dust Impacts - DanielHavfx](https://blendermarket.com/products/vdb-dust-impacts)
-  * [VDB Forge - CGI Forge](https://blendermarket.com/products/vdb-forge-smoke-and-dust)
-  * [Simple Explosions - Jonathan Wubbe](https://blendermarket.com/products/simple-explosions-)
-  * [Simple Fire Pack 10 Animated VDB - Jonathan Wubbe](https://blendermarket.com/products/simple-fire-pack-10-animated-vdb-models)
-* Textures/BGs (Various, most altered):
-* [Polyhaven.com](Polyhaven.com)
-* [AmbientCG.com](AmbientCG.com)
+
+### Smoke/Explosion/Fire VDB:
+
+* [Dust Impacts - DanielHavfx](https://blendermarket.com/products/vdb-dust-impacts)
+* [VDB Forge - CGI Forge](https://blendermarket.com/products/vdb-forge-smoke-and-dust)
+* [Simple Explosions - Jonathan Wubbe](https://blendermarket.com/products/simple-explosions-)
+* [Simple Fire Pack 10 Animated VDB - Jonathan Wubbe](https://blendermarket.com/products/simple-fire-pack-10-animated-vdb-models)
+  
+### Textures/BGs (Various, most altered):
+
+* [Polyhaven.com](https://Polyhaven.com)
+* [AmbientCG.com](https://AmbientCG.com)
 * [KateArtProject](https://www.etsy.com/listing/1392960537/abstract-strokes-digital-paper-scrapbook)
 * [ScreamingBrainStudios](https://screamingbrainstudios.com/downloads/)
 * [ClayDoh by DoubleGum](https://doublegum.gumroad.com/l/ClayDoh)
-* Classroom Posters I spoofed for XSI Classroom Scene:
+
+### Classroom Posters I spoofed for XSI Classroom Scene:
+
 * https://www.carsondellosa.com/106000--you-were-born-to-shine-poster-106000/
 * https://www.carsondellosa.com/106018--help-each-other-poster-106018
 * https://www.carsondellosa.com/106021--doing-good-feels-good-poster-106021/
