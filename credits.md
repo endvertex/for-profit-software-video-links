@@ -374,7 +374,7 @@
 * [Road + Sidewalk (retextured, models altered) - 3d Shaker](https://blendermarket.com/products/road-parts---sections-of-road-with-crossroads-lights-and-road-signs)
 * [Street Lamp - Josh Dean](https://polyhaven.com/a/street_lamp_01)
 
-### Smoke/Explosion/Fire VDB:
+### Smoke/Explosion/Fire VDBs:
 
 * [Dust Impacts - DanielHavfx](https://blendermarket.com/products/vdb-dust-impacts)
 * [VDB Forge - CGI Forge](https://blendermarket.com/products/vdb-forge-smoke-and-dust)
