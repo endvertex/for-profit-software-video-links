@@ -23,7 +23,7 @@
 * [Cartoon, Autoharp, Play, Scrape, Strings, Musical Library: Sonopedia - Ric Viers](https://blastwavefx.com/)
 * [Cartoon | Musical - Instruments || String Plucks, Descend, Fast, Musical Instrument Library: Blastdrive - Ric Viers](https://blastwavefx.com/)
 * [Attack (60-secs version) - Michael Stephen Decker; LP Royalty Free Library: Lynne Music](https://lynnepublishing.com/)
-* [Hard Orchestral Surprise Library: Sound Designer Tool Kit](http://sounddogs.com )
+* [Hard Orchestral Surprise Library: Sound Designer Tool Kit](https://sounddogs.com )
 * [Attack (30-secs version) - Michael Stephen Decker; LP Royalty Free Library: Lynne Music](https://lynnepublishing.com/)
 
 ### Classroom Scene
@@ -57,7 +57,7 @@
 ## Sources
 
 * [The Internet Archive](https://archive.org)
-* [Wikipedia](https://wikipedia.org )
+* [Wikipedia](https://wikipedia.org)
 
 ## Artists Mentioned/Shown
 
